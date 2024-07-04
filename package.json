@@ -4,6 +4,7 @@
   "description": "Creating a react app without create-react-app",
   "main": "index.js",
   "scripts": {
+    "build": "webpack --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Janice Pepper",
